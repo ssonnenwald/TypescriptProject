@@ -1,1 +1,19 @@
-"node_modules" 
+# Node artifacts
+node_modules/
+
+# Compiled JavaScript
+*.js
+*.js.map
+
+# TypeScript build artifacts
+*.tsbuildinfo
+
+# IDEs and editors
+.vscode/
+.idea/
+*.code-workspace
+
+# Build output
+dist/
+out/
+
